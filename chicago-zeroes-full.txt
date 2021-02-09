@@ -1,0 +1,268 @@
+0000000206900000000000          PRECINCTS COUNTED - TOTAL                               PRECINCTS COUNTED - TOTAL                                      000
+0001001206900000000000          REGISTERED VOTERS - TOTAL                               VOTERS                                                         000
+0002001206900000000000          BALLOTS CAST - TOTAL                                    BALLOTS CAST                                                   000
+0010001206900000000000          Proposed Amendment to the Illinois Constitution         Yes                                   State of Illinois        001
+0010002206900000000000          Proposed Amendment to the Illinois Constitution         No                                    State of Illinois        001
+0011001206900000000000DEM       President & Vice President, U.S.                        Joseph R. Biden & Kamala D. Harris    FEDERAL                  001
+0011002206900000000000REP       President & Vice President, U.S.                        Donald J. Trump & Michael R. Pence    FEDERAL                  001
+0011003206900000000000GRN       President & Vice President, U.S.                        Howie Hawkins & Angela Walker         FEDERAL                  001
+0011004206900000000000PSL       President & Vice President, U.S.                        Gloria La Riva & Leonard Peltier      FEDERAL                  001
+0011005206900000000000ASP       President & Vice President, U.S.                        Brian Carroll & Amar Patel            FEDERAL                  001
+0011006206900000000000LIB       President & Vice President, U.S.                        Jo Jorgensen & Jeremy ''Spike'' Cohen FEDERAL                  001
+0012001206900000000000DEM       Senator, U.S.                                           Richard J. Durbin                     FEDERAL                  001
+0012002206900000000000REP       Senator, U.S.                                           Mark C. Curran Jr.                    FEDERAL                  001
+0012003206900000000000WWP       Senator, U.S.                                           Willie L. Wilson                      FEDERAL                  001
+0012004206900000000000GRN       Senator, U.S.                                           David F. Black                        FEDERAL                  001
+0012005206900000000000LIB       Senator, U.S.                                           Danny Malouf                          FEDERAL                  001
+0013001040400000000000DEM       U.S. Representative, 1st District                       Bobby L. Rush                         1st Congressional Distric001
+0013002040400000000000REP       U.S. Representative, 1st District                       Philanise White                       1st Congressional Distric001
+0014001017100000000000DEM       U.S. Representative, 2nd District                       Robin Kelly                           2nd Congressional Distric001
+0014002017100000000000REP       U.S. Representative, 2nd District                       Theresa J. Raborn                     2nd Congressional Distric001
+0015001020300000000000DEM       U.S. Representative, 3rd District                       Marie Newman                          3rd Congressional Distric001
+0015002020300000000000REP       U.S. Representative, 3rd District                       Mike Fricilone                        3rd Congressional Distric001
+0016001034800000000000DEM       U.S. Representative, 4th District                       Jesus ''Chuy'' Garcia                 4th Congressional Distric001
+0016002034800000000000REP       U.S. Representative, 4th District                       Jesus Solorio                         4th Congressional Distric001
+0017001043700000000000DEM       U.S. Representative, 5th District                       Mike Quigley                          5th Congressional Distric001
+0017002043700000000000REP       U.S. Representative, 5th District                       Tommy Hanson                          5th Congressional Distric001
+0017003043700000000000GRN       U.S. Representative, 5th District                       Thomas J. Wilda                       5th Congressional Distric001
+0018001047900000000000DEM       U.S. Representative, 7th District                       Danny K. Davis                        7th Congressional Distric001
+0018002047900000000000REP       U.S. Representative, 7th District                       Craig Cameron                         7th Congressional Distric001
+0018003047900000000000IND       U.S. Representative, 7th District                       Tracy Jennings                        7th Congressional Distric001
+0019001020100000000000DEM       U.S. Representative, 9th District                       Janice D. Schakowsky                  9th Congressional Distric001
+0019002020100000000000REP       U.S. Representative, 9th District                       Sargis Sangari                        9th Congressional Distric001
+0020001013600000000000DEM       State Senator, 1st District 4yr                         Antonio ''Tony'' Munoz                1st Legislative District 001
+0021001005100000000000DEM       State Senator, 4th District 4yr                         Kimberly A. Lightford                 4th Legislative District 001
+0022001018500000000000DEM       State Senator, 6th District 2yr                         Sara Feigenholtz                      6th Legislative District 001
+0023001016200000000000DEM       State Senator, 7th District 4yr                         Heather A. Steans                     7th Legislative District 001
+0024001011500000000000DEM       State Senator, 10th District 4yr                        Robert Martwick                       10th Legislative District001
+0024002011500000000000REP       State Senator, 10th District 4yr                        Anthony Beckman                       10th Legislative District001
+0025001012800000000000DEM       State Senator, 11th District 2yr                        Celina Villanueva                     11th Legislative District001
+0025002012800000000000DIA       State Senator, 11th District 2yr                        Mary Ellen ''Mari'' Brown             11th Legislative District001
+0026001017900000000000DEM       State Senator, 13th District 4yr                        Robert Peters                         13th Legislative District001
+0027001013900000000000DEM       State Senator, 16th District 4yr                        Jacqueline ''Jacqui'' Collins         16th Legislative District001
+0028001000300000000000DEM       State Senator, 28th District 4yr                        Laura Murphy                          28th Legislative District001
+0029001007100000000000DEM       State Representative, 1st District                      Aaron M. Ortiz                        1st Representative Distri001
+0030001006600000000000DEM       State Representative, 2nd District                      Theresa Mah                           2nd Representative Distri001
+0031001008200000000000DEM       State Representative, 3rd District                      Eva Dina Delgado                      3rd Representative Distri001
+0032001010300000000000DEM       State Representative, 4th District                      Delia C. Ramirez                      4th Representative Distri001
+0033001010600000000000DEM       State Representative, 5th District                      Lamont J. Robinson                    5th Representative Distri001
+0034001010800000000000DEM       State Representative, 6th District                      Sonya Marie Harper                    6th Representative Distri001
+0035001005100000000000DEM       State Representative, 8th District                      La Shawn K. Ford                      8th Representative Distri001
+0036001010700000000000DEM       State Representative, 9th District                      Lakesia Collins                       9th Representative Distri001
+0037001011800000000000DEM       State Representative, 10th District                     Jawaharial ''Omar'' Williams          10th Representative Distr001
+0038001009700000000000DEM       State Representative, 11th District                     Ann M. Williams                       11th Representative Distr001
+0039001009000000000000DEM       State Representative, 12th District                     Margaret Croke                        12th Representative Distr001
+0040001009000000000000DEM       State Representative, 13th District                     Greg Harris                           13th Representative Distr001
+0041001007800000000000DEM       State Representative, 14th District                     Kelly M. Cassidy                      14th Representative Distr001
+0042001005100000000000DEM       State Representative, 15th District                     John C. D'Amico                       15th Representative Distr001
+0043001004400000000000DEM       State Representative, 16th District                     Denyse Wang Stoneback                 16th Representative Distr001
+0044001007800000000000DEM       State Representative, 19th District                     Lindsey LaPointe                      19th Representative Distr001
+0044002007800000000000REP       State Representative, 19th District                     Jeff Muehlfelder                      19th Representative Distr001
+0044003007800000000000LIB       State Representative, 19th District                     Joseph Schreiner                      19th Representative Distr001
+0045001004100000000000DEM       State Representative, 20th District                     Michelle Darbro                       20th Representative Distr001
+0045002004100000000000REP       State Representative, 20th District                     Brad Stephens                         20th Representative Distr001
+0046001004000000000000DEM       State Representative, 21st District                     Edgar Gonzalez, Jr.                   21st Representative Distr001
+0047001008900000000000DEM       State Representative, 22nd District                     Michael J. Madigan                    22nd Representative Distr001
+0048001000200000000000DEM       State Representative, 23rd District                     Michael J. Zalewski                   23rd Representative Distr001
+0049001001700000000000DEM       State Representative, 24th District                     Elizabeth ''Lisa'' Hernandez          24th Representative Distr001
+0050001008900000000000DEM       State Representative, 25th District                     Curtis J. Tarver II                   25th Representative Distr001
+0051001010600000000000DEM       State Representative, 26th District                     Kam Buckner                           26th Representative Distr001
+0052001007800000000000DEM       State Representative, 27th District                     Justin Q. Slaughter                   27th Representative Distr001
+0053001005000000000000DEM       State Representative, 28th District                     Robert ''Bob'' Rita                   28th Representative Distr001
+0054001001400000000000DEM       State Representative, 29th District                     Thaddeus Jones                        29th Representative Distr001
+0055001007300000000000DEM       State Representative, 31st District                     Mary E. Flowers                       31st Representative Distr001
+0056001007800000000000DEM       State Representative, 32nd District                     André Thapedi                         32nd Representative Distr001
+0057001006800000000000DEM       State Representative, 33rd District                     Marcus C. Evans, Jr.                  33rd Representative Distr001
+0058001006000000000000DEM       State Representative, 34th District                     Nicholas ''Nick'' Smith               34th Representative Distr001
+0059001005600000000000DEM       State Representative, 35th District                     Frances Ann Hurley                    35th Representative Distr001
+0059002005600000000000REP       State Representative, 35th District                     Herbert Hebein                        35th Representative Distr001
+0060001002400000000000DEM       State Representative, 36th District                     Kelly M. Burke                        36th Representative Distr001
+0061001009100000000000DEM       State Representative, 39th District                     Will Guzzardi                         39th Representative Distr001
+0062001007200000000000DEM       State Representative, 40th District                     Jaime M. Andrade, Jr.                 40th Representative Distr001
+0063001000300000000000DEM       State Representative, 55th District                     Martin J. Moylan                      55th Representative Distr001
+0063002000300000000000LIB       State Representative, 55th District                     Glenn Olofson                         55th Representative Distr001
+0064001002800000000000DEM       State Representative, 78th District                     Camille Lilly                         78th Representative Distr001
+0064002002800000000000LIB       State Representative, 78th District                     Joshua Flynn                          78th Representative Distr001
+0065001206900000000000DEM       Commissioner, Water Reclamation Dist                    Kimberly Neely Dubuclet               Metropolitan Water Reclam003
+0065002206900000000000DEM       Commissioner, Water Reclamation Dist                    M Cameron ''Cam'' Davis               Metropolitan Water Reclam003
+0065003206900000000000DEM       Commissioner, Water Reclamation Dist                    Eira L. Corral Sepúlveda              Metropolitan Water Reclam003
+0065004206900000000000GRN       Commissioner, Water Reclamation Dist                    Tammie Felicia Vinson                 Metropolitan Water Reclam003
+0065005206900000000000GRN       Commissioner, Water Reclamation Dist                    Troy Antonio Hernandez                Metropolitan Water Reclam003
+0065006206900000000000GRN       Commissioner, Water Reclamation Dist                    Rachel Wales                          Metropolitan Water Reclam003
+0066001206900000000000DEM       State's Attorney, Cook County                           Kim Foxx                              Cook County              001
+0066002206900000000000REP       State's Attorney, Cook County                           Patrick W. ''Pat'' O'Brien            Cook County              001
+0066003206900000000000LIB       State's Attorney, Cook County                           Brian Dennehy                         Cook County              001
+0067001206900000000000DEM       Clerk of the Circuit Court, Cook County                 Iris Y. Martinez                      Cook County              001
+0067002206900000000000REP       Clerk of the Circuit Court, Cook County                 Barbara Bellar                        Cook County              001
+0068001006200000000000DEM       Board of Review, 1st District                           Tammy Wendt                           Board of Review, 1st Dist001
+0068002006200000000000REP       Board of Review, 1st District                           Dan Patlak                            Board of Review, 1st Dist001
+0069001206900000000000DEM       Supreme Court Judge (Vacancy of Freeman)                P. Scott Neville, Jr.                 1st Judicial District    001
+0070001206900000000000DEM       Appellate Court Judge (Vacancy of Neville, Jr.)         Michael B. Hyman                      1st Judicial District    001
+0071001206900000000000DEM       Appellate Court Judge (Vacancy of Simon)                Sharon O. Johnson                     1st Judicial District    001
+0072001206900000000000DEM       Circuit Court Judge (Vacancy of Bellows)                Tiesha L. Smith                       Cook County Circuit      001
+0073001206900000000000DEM       Circuit Court Judge (Vacancy of Coghlan)                Kelly Marie McCarthy                  Cook County Circuit      001
+0074001206900000000000DEM       Circuit Court Judge (Vacancy of Ford)                   Laura Ayala-Gonzalez                  Cook County Circuit      001
+0075001206900000000000DEM       Circuit Court Judge (Vacancy of Funderburk)             Celestia L. Mays                      Cook County Circuit      001
+0076001206900000000000DEM       Circuit Court Judge (Vacancy of Larsen)                 Levander ''Van'' Smith, Jr.           Cook County Circuit      001
+0077001206900000000000DEM       Circuit Court Judge (Vacancy of Mason)                  Chris Stacey                          Cook County Circuit      001
+0078001206900000000000DEM       Circuit Court Judge (Vacancy of McCarthy)               Teresa Molina                         Cook County Circuit      001
+0079001206900000000000DEM       Circuit Court Judge (Vacancy of Murphy Gorman)          Sheree Desiree Henry                  Cook County Circuit      001
+0080001206900000000000DEM       Circuit Court Judge (Vacancy of O'Brien)                Elizabeth Anne Walsh                  Cook County Circuit      001
+0081001206900000000000DEM       Circuit Court Judge (Vacancy of Patti)                  Lynn Weaver Boyle                     Cook County Circuit      001
+0082001206900000000000DEM       Circuit Court Judge (Vacancy of Roti)                   Lorraine Mary Murphy                  Cook County Circuit      001
+0083001206900000000000DEM       Circuit Court Judge (Vacancy of C. Sheehan)             Maura McMahon Zeller                  Cook County Circuit      001
+0084001206900000000000DEM       Circuit Court Judge (Vacancy of K. Sheehan)             Jill Rose Quinn                       Cook County Circuit      001
+0085001022600000000000DEM       Judge, 1st Subcircuit (Vacancy of Hughes Brooks)        Krista D. Butler                      Judicial Circuit 1st Subc001
+0086001022600000000000DEM       Judge, 1st Subcircuit (Vacancy of Crawford)             Tyria B. Walton                       Judicial Circuit 1st Subc001
+0087001013700000000000DEM       Judge, 2nd Subcircuit (Additional Judgeship A)          Sondra Nicole Denmark                 Judicial Circuit 2nd Subc001
+0088001023400000000000DEM       Judge, 3rd Subcircuit (Vacancy of Filan)                Daniel Edward Maloney                 Judicial Circuit 3rd Subc001
+0089001023400000000000DEM       Judge, 3rd Subcircuit (Vacancy of Flynn)                Regina Ann Mescall                    Judicial Circuit 3rd Subc001
+0090001023400000000000DEM       Judge, 3rd Subcircuit (Vacancy of Murphy)               Erin Haggerty Antonietti              Judicial Circuit 3rd Subc001
+0091001026000000000000DEM       Judge, 6th Subcircuit (Vacancy of Nega)                 Jamie Guerra Dickler                  Judicial Circuit 6th Subc001
+0092001026000000000000DEM       Judge, 6th Subcircuit (Vacancy of Pantle)               Eileen Marie O'Connor                 Judicial Circuit 6th Subc001
+0093001020400000000000DEM       Judge, 7th Subcircuit (Vacancy of Jackson)              Pamela Reaves-Harris                  Judicial Circuit 7th Subc001
+0094001031700000000000DEM       Judge, 8th Subcircuit (Vacancy of Fleming)              Jonathan Clark Green                  Judicial Circuit 8th Subc001
+0095001031700000000000DEM       Judge, 8th Subcircuit (Vacancy of Gubin)                Michael A. Forti                      Judicial Circuit 8th Subc001
+0096001009400000000000DEM       Judge, 9th Subcircuit (Vacancy of Axelrood)             Thomas M. Cushing                     Judicial Circuit 9th Subc001
+0097001009400000000000DEM       Judge, 9th Subcircuit (Vacancy of Luckman)              Julie Bess Aimen                      Judicial Circuit 9th Subc001
+0098001022400000000000DEM       Judge, 10th Subcircuit (Vacancy of Allen)               John G. Mulroe                        Judicial Circuit 10th Sub001
+0099001022400000000000DEM       Judge, 10th Subcircuit (Vacancy of McGing)              Maire Aileen Dempsey                  Judicial Circuit 10th Sub001
+0100001022400000000000DEM       Judge, 10th Subcircuit (Vacancy of O'Brien)             Mary Catherine Marubio                Judicial Circuit 10th Sub001
+0101001014800000000000DEM       Judge, 14th Subcircuit (Vacancy of Bertucci)            Gerardo Tristan, Jr.                  Judicial Circuit 14th Sub001
+0102001014800000000000DEM       Judge, 14th Subcircuit (Vacancy of Lacy)                Perla Tirado                          Judicial Circuit 14th Sub001
+0103001206900000000000NON       Aurelia Marie Pucinski                                  Yes                                   1st Judicial District    001
+0103002206900000000000NON       Aurelia Marie Pucinski                                  No                                    1st Judicial District    001
+0104001206900000000000NON       Mary Katherine Rochford                                 Yes                                   1st Judicial District    001
+0104002206900000000000NON       Mary Katherine Rochford                                 No                                    1st Judicial District    001
+0105001206900000000000NON       Michael P. Toomin                                       Yes                                   Cook County Circuit      001
+0105002206900000000000NON       Michael P. Toomin                                       No                                    Cook County Circuit      001
+0106001206900000000000NON       James Patrick Flannery, Jr.                             Yes                                   Cook County Circuit      001
+0106002206900000000000NON       James Patrick Flannery, Jr.                             No                                    Cook County Circuit      001
+0107001206900000000000NON       Mary Ellen Coghlan                                      Yes                                   Cook County Circuit      001
+0107002206900000000000NON       Mary Ellen Coghlan                                      No                                    Cook County Circuit      001
+0108001206900000000000NON       Shelley Lynn Sutker-Dermer                              Yes                                   Cook County Circuit      001
+0108002206900000000000NON       Shelley Lynn Sutker-Dermer                              No                                    Cook County Circuit      001
+0109001206900000000000NON       Patricia Manila Martin                                  Yes                                   Cook County Circuit      001
+0109002206900000000000NON       Patricia Manila Martin                                  No                                    Cook County Circuit      001
+0110001206900000000000NON       Kenneth J. Wadas                                        Yes                                   Cook County Circuit      001
+0110002206900000000000NON       Kenneth J. Wadas                                        No                                    Cook County Circuit      001
+0111001206900000000000NON       Gregory J. Wojkowski                                    Yes                                   Cook County Circuit      001
+0111002206900000000000NON       Gregory J. Wojkowski                                    No                                    Cook County Circuit      001
+0112001206900000000000NON       Robert E. Gordon                                        Yes                                   Cook County Circuit      001
+0112002206900000000000NON       Robert E. Gordon                                        No                                    Cook County Circuit      001
+0113001206900000000000NON       Lewis Nixon                                             Yes                                   Cook County Circuit      001
+0113002206900000000000NON       Lewis Nixon                                             No                                    Cook County Circuit      001
+0114001206900000000000NON       Margaret Ann Brennan                                    Yes                                   Cook County Circuit      001
+0114002206900000000000NON       Margaret Ann Brennan                                    No                                    Cook County Circuit      001
+0115001206900000000000NON       Janet Adams Brosnahan                                   Yes                                   Cook County Circuit      001
+0115002206900000000000NON       Janet Adams Brosnahan                                   No                                    Cook County Circuit      001
+0116001206900000000000NON       Peter A. Felice                                         Yes                                   Cook County Circuit      001
+0116002206900000000000NON       Peter A. Felice                                         No                                    Cook County Circuit      001
+0117001206900000000000NON       Kerry M. Kennedy                                        Yes                                   Cook County Circuit      001
+0117002206900000000000NON       Kerry M. Kennedy                                        No                                    Cook County Circuit      001
+0118001206900000000000NON       Casandra Lewis                                          Yes                                   Cook County Circuit      001
+0118002206900000000000NON       Casandra Lewis                                          No                                    Cook County Circuit      001
+0119001206900000000000NON       Laura Marie Sullivan                                    Yes                                   Cook County Circuit      001
+0119002206900000000000NON       Laura Marie Sullivan                                    No                                    Cook County Circuit      001
+0120001206900000000000NON       Raul Vega                                               Yes                                   Cook County Circuit      001
+0120002206900000000000NON       Raul Vega                                               No                                    Cook County Circuit      001
+0121001206900000000000NON       Michael B. Hyman                                        Yes                                   Cook County Circuit      001
+0121002206900000000000NON       Michael B. Hyman                                        No                                    Cook County Circuit      001
+0122001206900000000000NON       Joan E. Powell                                          Yes                                   Cook County Circuit      001
+0122002206900000000000NON       Joan E. Powell                                          No                                    Cook County Circuit      001
+0123001206900000000000NON       Patrick J. Sherlock                                     Yes                                   Cook County Circuit      001
+0123002206900000000000NON       Patrick J. Sherlock                                     No                                    Cook County Circuit      001
+0124001206900000000000NON       Maureen Ward Kirby                                      Yes                                   Cook County Circuit      001
+0124002206900000000000NON       Maureen Ward Kirby                                      No                                    Cook County Circuit      001
+0125001206900000000000NON       Edward A. Arce                                          Yes                                   Cook County Circuit      001
+0125002206900000000000NON       Edward A. Arce                                          No                                    Cook County Circuit      001
+0126001206900000000000NON       James N. O'Hara                                         Yes                                   Cook County Circuit      001
+0126002206900000000000NON       James N. O'Hara                                         No                                    Cook County Circuit      001
+0127001206900000000000NON       Mauricio Araujo                                         Yes                                   Cook County Circuit      001
+0127002206900000000000NON       Mauricio Araujo                                         No                                    Cook County Circuit      001
+0128001206900000000000NON       Thomas J. Byrne                                         Yes                                   Cook County Circuit      001
+0128002206900000000000NON       Thomas J. Byrne                                         No                                    Cook County Circuit      001
+0129001206900000000000NON       Ann Collins-Dole                                        Yes                                   Cook County Circuit      001
+0129002206900000000000NON       Ann Collins-Dole                                        No                                    Cook County Circuit      001
+0130001206900000000000NON       Donna L. Cooper                                         Yes                                   Cook County Circuit      001
+0130002206900000000000NON       Donna L. Cooper                                         No                                    Cook County Circuit      001
+0131001206900000000000NON       Anna Helen Demacopoulos                                 Yes                                   Cook County Circuit      001
+0131002206900000000000NON       Anna Helen Demacopoulos                                 No                                    Cook County Circuit      001
+0132001206900000000000NON       Diana L. Kenworthy                                      Yes                                   Cook County Circuit      001
+0132002206900000000000NON       Diana L. Kenworthy                                      No                                    Cook County Circuit      001
+0133001206900000000000NON       Pamela Elizabeth Loza                                   Yes                                   Cook County Circuit      001
+0133002206900000000000NON       Pamela Elizabeth Loza                                   No                                    Cook County Circuit      001
+0134001206900000000000NON       Jackie Marie Portman-Brown                              Yes                                   Cook County Circuit      001
+0134002206900000000000NON       Jackie Marie Portman-Brown                              No                                    Cook County Circuit      001
+0135001206900000000000NON       Dominique C. Ross                                       Yes                                   Cook County Circuit      001
+0135002206900000000000NON       Dominique C. Ross                                       No                                    Cook County Circuit      001
+0136001206900000000000NON       Kristyna Colleen Ryan                                   Yes                                   Cook County Circuit      001
+0136002206900000000000NON       Kristyna Colleen Ryan                                   No                                    Cook County Circuit      001
+0137001206900000000000NON       Debra B. Walker                                         Yes                                   Cook County Circuit      001
+0137002206900000000000NON       Debra B. Walker                                         No                                    Cook County Circuit      001
+0138001206900000000000NON       Ursula Walowski                                         Yes                                   Cook County Circuit      001
+0138002206900000000000NON       Ursula Walowski                                         No                                    Cook County Circuit      001
+0139001206900000000000NON       Anthony C. ''Tony'' Kyriakopoulos                       Yes                                   Cook County Circuit      001
+0139002206900000000000NON       Anthony C. ''Tony'' Kyriakopoulos                       No                                    Cook County Circuit      001
+0140001206900000000000NON       Caroline Kate Moreland                                  Yes                                   Cook County Circuit      001
+0140002206900000000000NON       Caroline Kate Moreland                                  No                                    Cook County Circuit      001
+0141001206900000000000NON       Thomas J. Carroll                                       Yes                                   Cook County Circuit      001
+0141002206900000000000NON       Thomas J. Carroll                                       No                                    Cook County Circuit      001
+0142001206900000000000NON       Cynthia Y. Cobbs                                        Yes                                   Cook County Circuit      001
+0142002206900000000000NON       Cynthia Y. Cobbs                                        No                                    Cook County Circuit      001
+0143001206900000000000NON       Daniel J. Kubasiak                                      Yes                                   Cook County Circuit      001
+0143002206900000000000NON       Daniel J. Kubasiak                                      No                                    Cook County Circuit      001
+0144001206900000000000NON       Andrea M. Buford                                        Yes                                   Cook County Circuit      001
+0144002206900000000000NON       Andrea M. Buford                                        No                                    Cook County Circuit      001
+0145001206900000000000NON       Pamela McLean Meyerson                                  Yes                                   Cook County Circuit      001
+0145002206900000000000NON       Pamela McLean Meyerson                                  No                                    Cook County Circuit      001
+0146001206900000000000NON       Chris Lawler                                            Yes                                   Cook County Circuit      001
+0146002206900000000000NON       Chris Lawler                                            No                                    Cook County Circuit      001
+0147001206900000000000NON       John Michael Allegretti                                 Yes                                   Cook County Circuit      001
+0147002206900000000000NON       John Michael Allegretti                                 No                                    Cook County Circuit      001
+0148001206900000000000NON       Kristal Rivers                                          Yes                                   Cook County Circuit      001
+0148002206900000000000NON       Kristal Rivers                                          No                                    Cook County Circuit      001
+0149001206900000000000NON       Steven G. Watkins                                       Yes                                   Cook County Circuit      001
+0149002206900000000000NON       Steven G. Watkins                                       No                                    Cook County Circuit      001
+0150001206900000000000NON       Abbey Fishman Romanek                                   Yes                                   Cook County Circuit      001
+0150002206900000000000NON       Abbey Fishman Romanek                                   No                                    Cook County Circuit      001
+0151001206900000000000NON       William B. Raines                                       Yes                                   Cook County Circuit      001
+0151002206900000000000NON       William B. Raines                                       No                                    Cook County Circuit      001
+0152001206900000000000NON       Judith Rice                                             Yes                                   Cook County Circuit      001
+0152002206900000000000NON       Judith Rice                                             No                                    Cook County Circuit      001
+0153001206900000000000NON       Patrick Kevin Coughlin                                  Yes                                   Cook County Circuit      001
+0153002206900000000000NON       Patrick Kevin Coughlin                                  No                                    Cook County Circuit      001
+0154001206900000000000NON       John Curry                                              Yes                                   Cook County Circuit      001
+0154002206900000000000NON       John Curry                                              No                                    Cook County Circuit      001
+0155001206900000000000NON       Megan Elizabeth Goldish                                 Yes                                   Cook County Circuit      001
+0155002206900000000000NON       Megan Elizabeth Goldish                                 No                                    Cook County Circuit      001
+0156001206900000000000NON       Anjana Hansen                                           Yes                                   Cook County Circuit      001
+0156002206900000000000NON       Anjana Hansen                                           No                                    Cook County Circuit      001
+0157001206900000000000NON       Robert D. Kuzas                                         Yes                                   Cook County Circuit      001
+0157002206900000000000NON       Robert D. Kuzas                                         No                                    Cook County Circuit      001
+0158001206900000000000NON       John J. Mahoney                                         Yes                                   Cook County Circuit      001
+0158002206900000000000NON       John J. Mahoney                                         No                                    Cook County Circuit      001
+0159001206900000000000NON       Maritza Martinez                                        Yes                                   Cook County Circuit      001
+0159002206900000000000NON       Maritza Martinez                                        No                                    Cook County Circuit      001
+0160001206900000000000NON       Terrence J. McGuire                                     Yes                                   Cook County Circuit      001
+0160002206900000000000NON       Terrence J. McGuire                                     No                                    Cook County Circuit      001
+0161001206900000000000NON       Bridget Anne Mitchell                                   Yes                                   Cook County Circuit      001
+0161002206900000000000NON       Bridget Anne Mitchell                                   No                                    Cook County Circuit      001
+0162001206900000000000NON       James Paul Pieczonka                                    Yes                                   Cook County Circuit      001
+0162002206900000000000NON       James Paul Pieczonka                                    No                                    Cook County Circuit      001
+0163001206900000000000NON       Diana Rosario                                           Yes                                   Cook County Circuit      001
+0163002206900000000000NON       Diana Rosario                                           No                                    Cook County Circuit      001
+0164001206900000000000NON       Patricia O'Brien Sheahan                                Yes                                   Cook County Circuit      001
+0164002206900000000000NON       Patricia O'Brien Sheahan                                No                                    Cook County Circuit      001
+0165001206900000000000          Broadband                                               Yes                                   City Of Chicago          001
+0165002206900000000000          Broadband                                               No                                    City Of Chicago          001
+0166001206900000000000          City Plan                                               Yes                                   City Of Chicago          001
+0166002206900000000000          City Plan                                               No                                    City Of Chicago          001
+0167001206900000000000          Firearms                                                Yes                                   City Of Chicago          001
+0167002206900000000000          Firearms                                                No                                    City Of Chicago          001
+0168001006600000000000          Mental Health District                                  Yes                                   Mental Health            001
+0168002006600000000000          Mental Health District                                  No                                    Mental Health            001
+0169001006600000000000          Mental Health Tax                                       Yes                                   Mental Health            001
+0169002006600000000000          Mental Health Tax                                       No                                    Mental Health            001
+0170001000100000000000          Alcoholic Liquor W44 P16                                Yes                                   Alcoholic Liquor W44 P16 001
+0170002000100000000000          Alcoholic Liquor W44 P16                                No                                    Alcoholic Liquor W44 P16 001
